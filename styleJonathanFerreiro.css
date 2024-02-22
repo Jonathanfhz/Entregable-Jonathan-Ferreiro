@@ -8,8 +8,7 @@ h1 {
     color: blue;
 }
 img {
-    width: 25%; 
-    border: 2px solid blue; 
-    border-radius: 8px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 25%;
+    border: 5px solid blue;
+    border-radius: 10px;
 }
